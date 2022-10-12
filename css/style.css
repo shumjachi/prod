@@ -24,3 +24,6 @@ img {
 .tx-l {text-align: left;}
 .tx-r {text-align: right;}
 
+.header {
+	background:  red;
+}
